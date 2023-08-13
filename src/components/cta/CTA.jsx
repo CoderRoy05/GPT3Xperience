@@ -11,7 +11,7 @@ const CTA = () => (
       <button type="button">Get Started</button>
       <button type="state">Click Here</button>
       <button type="main">Updates</button>
-      <p>Start hearing quick updates from the only source ever created</p>
+      <p>Start hearing quick updates from the only</p>
     </div>
   </div>
 );
