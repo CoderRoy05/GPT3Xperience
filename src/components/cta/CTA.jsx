@@ -12,6 +12,7 @@ const CTA = () => (
       <button type="state">Click Here</button>
       <button type="main">Update</button>
       <p>Start hearing quick updates from the only YES'</p>
+      <p>started with no requiremnets</p>
     </div>
   </div>
 );
