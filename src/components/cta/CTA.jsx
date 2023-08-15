@@ -13,7 +13,7 @@ const CTA = () => (
       <button type="main">Update</button>
       <p>Start hearing quick updates from the only YES'</p>
       <p>started with no requiremnets</p>
-      <div className="double__mark">in space</div>
+      <div className="double__mark-signg">in space</div>
       <div className="gpt3__more_on">
         <p>actually happening right now</p>
         <p>although, the main events interaction also occur</p>
