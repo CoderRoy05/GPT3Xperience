@@ -15,6 +15,7 @@ const CTA = () => (
       <p>started with no requiremnets</p>
       <div className="gpt3__more_on">
         <p>actually happening right now</p>
+        <p>although</p>
       </div>
     </div>
   </div>
