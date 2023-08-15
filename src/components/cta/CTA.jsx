@@ -13,6 +13,9 @@ const CTA = () => (
       <button type="main">Update</button>
       <p>Start hearing quick updates from the only YES'</p>
       <p>started with no requiremnets</p>
+      <div className="gpt3__more_on">
+        <p>actually happening right now</p>
+      </div>
     </div>
   </div>
 );
