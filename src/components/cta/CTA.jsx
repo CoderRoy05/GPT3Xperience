@@ -11,7 +11,7 @@ const CTA = () => (
       <button type="button">Get Started</button>
       <button type="state">Click Here</button>
       <button type="main">Update Access</button>
-      <p>Start hearing quick updates from the only YES'</p>
+      <p>Always start with something new and fresh</p>
       <p>started with no requiremnets</p>
       <div className="double__mark-sign">in space</div>
       <div className="gpt3__more_on">
