@@ -15,7 +15,6 @@ const CTA = () => (
       <p>started with no requiremnets, unless you are with (note)</p>
       <div className="double__mark-sign">beside eachother</div>
       <div className="gpt3__more_on">
-        <p>actually happening right now</p>
         <p>although, the main events interaction also occur</p>
       </div>
     </div>
