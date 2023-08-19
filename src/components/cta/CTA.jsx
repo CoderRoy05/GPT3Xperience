@@ -12,7 +12,6 @@ const CTA = () => (
       <button type="state"></button>
       <button type="main"></button>
       <p>Always start with something new and fresh</p>
-      <p>Our second heck start from the next min</p>
       <p>started with no requiremnets, unless you are with (note)</p>
       <div className="double__mark-sign">beside eachother</div>
       <div className="gpt3__more_on">
