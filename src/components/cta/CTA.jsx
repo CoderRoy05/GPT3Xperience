@@ -11,7 +11,7 @@ const CTA = () => (
       <button type="button">Get Started</button>
       <button type="state">Start</button>
       <button type="main">Click here</button>
-      <p>Always start with something new and fresh</p>
+      <p>Always start with something</p>
       <p>started with no requiremnets, unless you are with (note)</p>
       <div className="double__mark-sign">beside eachother</div>
       <div className="gpt3__more_on">
