@@ -9,7 +9,7 @@ const CTA = () => (
     </div>
     <div className="gpt3__cta-btn">
       <button type="button">Get Started</button>
-      <button type="state">Click to:</button>
+      <button type="state"></button>
       <button type="main">Update Access</button>
       <p>Always start with something new and fresh</p>
       <p>Our second heck start from the next min</p>
