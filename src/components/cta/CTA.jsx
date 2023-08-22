@@ -14,9 +14,6 @@ const CTA = () => (
       <p>started with no requiremnets, unless you are with (note)</p>
       <div className="double__mark-sign">beside eachother</div>
       <div className="gpt3__more_on">
-        <div>
-          started on it, saved
-        </div>
       </div>
     </div>
   </div>
