@@ -10,7 +10,6 @@ const CTA = () => (
     <div className="gpt3__cta-btn">
       <button type="button">Get Started</button>
       <button type="state">Start</button>
-      <button type="main">Click here</button>
       <p>Always start with something</p>
       <p>started with no requiremnets, unless you are with (note)</p>
       <div className="double__mark-sign">beside eachother</div>
