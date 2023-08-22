@@ -17,7 +17,7 @@ const CTA = () => (
       <div className="gpt3__more_on">
         <p>although, the main events interaction also occur</p>
         <div>
-          started on it
+          started on it, saved
         </div>
       </div>
     </div>
