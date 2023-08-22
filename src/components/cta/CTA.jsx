@@ -16,6 +16,9 @@ const CTA = () => (
       <div className="double__mark-sign">beside eachother</div>
       <div className="gpt3__more_on">
         <p>although, the main events interaction also occur</p>
+        <div>
+          started on it
+        </div>
       </div>
     </div>
   </div>
