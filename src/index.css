@@ -21,3 +21,6 @@
 .stop{
   height: 70px;
 }
+.vite{
+  $var_quintir: saved;
+}
