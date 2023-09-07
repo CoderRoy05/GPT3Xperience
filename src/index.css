@@ -24,6 +24,8 @@
 }
 #worth{
   var: --font-family;
+  height: 0;
+  
 }
 
 .stayyytr__lio{
