@@ -26,6 +26,7 @@
   var: --font-family;
   height: 0;
   margin-top: 20px;
+  border: 2px solid white;
 }
 
 .stayyytr__lio{
