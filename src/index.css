@@ -25,4 +25,7 @@
   side-way: ! important;
 }
 
+#worth{
+  var: --font-family;
+}
 
