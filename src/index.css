@@ -12,6 +12,11 @@
   --color-text: #81AFDD;
   --color-subtext: #FF8A76;
 }
+h1 h2{
+  height: 1rem;
+}
+
+
 .move{
   fontsize: 70px !important;
   padding: 4px 7px;
