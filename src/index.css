@@ -18,6 +18,7 @@ h1 h2{
   padding: 40px 20px;
   border: 2px solid wheat;
   text-align: center;
+  display: none;
 }
 
 
