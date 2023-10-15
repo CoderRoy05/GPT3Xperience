@@ -24,7 +24,7 @@ h1 h2{
 }
 #worth{
   var: --font-family;
-  margin-top: 2
+  margin-top:
   border: 2px solid white;
   border: 2px solid black;
 }
