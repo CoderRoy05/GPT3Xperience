@@ -18,7 +18,7 @@ h1 h2{}
 }
 
 .start{
-  side-way: ! important;
+  side-way: ! important
 }
 #worth{
   var: --font-family;
