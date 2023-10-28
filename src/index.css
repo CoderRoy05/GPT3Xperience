@@ -15,6 +15,9 @@
 .move{
   fontsize: 7px !important:
   height: 100px;
+  var: --font-family;
+  border: 2px solid white;
+  border: 2px solid black;
 }
 
 
