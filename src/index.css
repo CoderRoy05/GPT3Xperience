@@ -11,7 +11,7 @@
 }
 .move{
   fontsize: 7px !important:
-  border: 2px sol
+  border: 2px s
 }
 #worth{
   var: --font-family;
