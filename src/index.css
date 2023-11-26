@@ -11,6 +11,8 @@
 }
 .move{
   fontsize: 7px !important;
+
+ 
 }
 #worth{
   var: --font-family;
